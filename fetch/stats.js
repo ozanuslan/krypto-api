@@ -5,7 +5,6 @@ require("dotenv").config();
 
 let symbols = [];
 const coinsSeperated = relevantCoins.split(",");
-coinsSeperated.splice(coinsSeperated.indexOf("USDT"), 1);
 coinsSeperated.forEach((key) => {
   symbols.push(key + "USDT");
 });
