@@ -4,7 +4,11 @@
 Krypto-Api is a cryptocurrency data tracking api that utilizes NodeJS runtime and Express framework. Below you can see how you can see the endpoints of the server.
 Live build of this project can be accessed on: http://krypto-api.herokuapp.com (Heroku puts apps on sleep if not used for a while, your first get reqest may take a while to get a response.)
 
+### Front End Implementation
 Here you can see a front-end project utilizing Krypto-Api: https://krypto-project.herokuapp.com (Same sleep goes for this app too, please try a couple of times to wake up the app.)
+
+### Mobile Implementation
+Here's the mobile implementation utilizing Krypto-Api: https://github.com/oguzakif/krypto_app (.apk file can be acquired from the repository for Android Devices.)
 
 ### Currently Supported Coins
 + BTC
