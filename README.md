@@ -10,6 +10,7 @@ Here you can see a front-end project utilizing Krypto-Api: https://krypto-projec
 + BTC
 + ADA
 + ATOM
++ CHZ
 + DASH
 + DOT
 + EOS
@@ -21,7 +22,6 @@ Here you can see a front-end project utilizing Krypto-Api: https://krypto-projec
 + USDT
 + XLM
 + XRP
-+ XTZ
 
 ### Coins
 /coins/COIN_ID returns general information and periodic change of the specified coin.
