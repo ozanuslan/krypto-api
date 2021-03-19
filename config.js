@@ -1,0 +1,1 @@
+exports.relevantCoins = "BTC,ADA,ATOM,DASH,DOT,EOS,ETH,LINK,LTC,NEO,TRX,DOGE,XLM,XRP,XTZ";
