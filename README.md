@@ -12,21 +12,21 @@ Here you can see a front-end project utilizing Krypto-Api: https://krypto-projec
 Here's the mobile implementation utilizing Krypto-Api: https://github.com/oguzakif/krypto_app (.apk file can be acquired from the repository for Android Devices.)
 
 ### Currently Supported Coins
-+ BTC
-+ ADA
-+ ATOM
-+ CHZ
-+ DASH
-+ DOT
-+ EOS
-+ ETH
-+ LINK
-+ LTC
-+ NEO
-+ TRX
-+ USDT
-+ XLM
-+ XRP
++BTC
++ADA
++ATOM
++CHZ
++DASH
++DOGE
++DOT
++EOS
++ETH
++LINK
++LTC
++NEO
++TRX
++XLM
++XRP
 
 ### Coins
 /coins/COIN_ID returns general information and periodic change of the specified coin.
