@@ -3,11 +3,8 @@ const { JSONtoMap, getMinutesInMilis } = require("../func");
 const relevantCoins = require("../config").relevantCoins;
 require("dotenv").config();
 
-let symbols = [];
 const coinsSeperated = relevantCoins.split(",");
-coinsSeperated.forEach((key) => {
-  symbols.push(key + "USDT");
-});
+const symbols = coinsSeperated.map((c) => c + "USDT");
 
 async function fetchStats(keys) {
   const apiURI = `${process.env.BINANCE_URL}/api/v3/ticker/24hr?symbol=${keys}`;
