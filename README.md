@@ -1,4 +1,7 @@
-# Krypto API
+# Krypto API [DEPRECATED]
+
+## DEPRECATION MESSAGE
+Due to Nomics deprecating their certain API endpoints this project can no longer function properly, therefore, it has been deprecated. Things will not work, be warned!
 
 ### Introduction
 Krypto-Api is a cryptocurrency data tracking api that utilizes NodeJS runtime and Express framework. Below you can see how you can see the endpoints of the server.
